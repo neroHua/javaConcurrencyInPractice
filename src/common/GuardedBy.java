@@ -12,4 +12,6 @@ import static java.lang.annotation.RetentionPolicy.SOURCE;
 @Target({ TYPE, FIELD, METHOD, CONSTRUCTOR, LOCAL_VARIABLE })
 public @interface GuardedBy {
 
+    String value();
+
 }
