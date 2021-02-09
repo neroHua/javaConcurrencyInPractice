@@ -23,5 +23,5 @@ package chapter02;
  *  3. 只要访问状态变量就一定得适当同步
  *
  */
-public class ThreadSafety {
+public class ThreadSafe {
 }
