@@ -4,8 +4,8 @@ package chapter03.case01;
  * visibility
  * 可见性
  *
- * the reading thread will see a value written by another thread on a timely basis
- * 一个读的线程是否可以及时地看见被其他线程写的值
+ * if there is a guarantee : the reading thread will see a value written by another thread on a timely basis
+ * 是否有一个保证：一个读的线程是否可以及时地看见被其他线程写的值
  *
  */
 public class NoVisibility {
