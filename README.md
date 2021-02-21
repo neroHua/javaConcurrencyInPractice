@@ -13,3 +13,11 @@ thread safety
 # chapter03
 sharing Object
 共享对象
+
+# chapter04
+composing Object
+组合对象
+
+# chapter05
+building block
+构建阻塞
