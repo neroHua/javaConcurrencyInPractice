@@ -21,3 +21,7 @@ composing Object
 # chapter05
 building block
 构建阻塞
+
+# chapter06
+task execution
+任务执行
