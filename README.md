@@ -30,6 +30,6 @@ task execution
 Cancellation and Shutdown
 取消与关闭
 
-# chapter07
+# chapter08
 Applying Thread Pools
 应用线程池
