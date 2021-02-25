@@ -41,3 +41,7 @@ GUI 应用程序
 # chapter10
 Avoiding Liveness Hazards
 避免活性危险
+
+# chapter11
+Performance and Scalability
+性能和伸缩性
