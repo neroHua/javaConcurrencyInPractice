@@ -45,3 +45,7 @@ Avoiding Liveness Hazards
 # chapter11
 Performance and Scalability
 性能和伸缩性
+
+# chapter12
+Testing Concurrent Programs
+测试并发程序
