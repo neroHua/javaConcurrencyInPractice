@@ -49,3 +49,19 @@ Performance and Scalability
 # chapter12
 Testing Concurrent Programs
 测试并发程序
+
+# chapter13
+Explicit Locks
+显示锁
+
+# chapter14
+Building Custom Synchronizers
+构建自定义的同步器
+
+# chapter15
+Atomic Variables and Nonblocking Synchronization
+原子变量和非阻塞同步机制
+
+# chapter16
+Java Memory Model
+java内存模型
