@@ -7,7 +7,7 @@ import java.util.concurrent.Semaphore;
 
 @ThreadSafe
 public class BoundedBuffer<E> {
-    
+
     private final Semaphore availableItems, availableSpaces;
     @GuardedBy("this")
     private final E[] items;
