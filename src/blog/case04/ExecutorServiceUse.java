@@ -171,7 +171,7 @@ public class ExecutorServiceUse {
     }
 
     public void testCallableList02() throws ExecutionException, InterruptedException {
-        List<Callable> callableList = new ArrayList<>();
+        List<Callable<Integer>> callableList = new ArrayList<>();
         for (int i = 0; i < 10; i++) {
             Callable<Integer> callable = new Callable<Integer>() {
 
@@ -197,7 +197,7 @@ public class ExecutorServiceUse {
     }
 
     public void testCallableList03() throws ExecutionException, InterruptedException {
-        List<Callable> callableList = new ArrayList<>();
+        List<Callable<Integer>> callableList = new ArrayList<>();
         for (int i = 0; i < 10; i++) {
             Callable<Integer> callable = new Callable<Integer>() {
 
